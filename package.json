@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "version": "",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "babelify": "^8.0.0",
+    "browserify": "^15.0.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^7.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-file-include": "^2.0.1",
+    "gulp-less": "^3.3.2",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-rev": "^8.1.0",
+    "gulp-rev-collector": "^1.2.3",
+    "install": "^0.10.2",
+    "vinyl-source-stream": "^2.0.0"
+  },
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sourcemaps": "^2.6.1",
+    "gulp-watch": "^5.0.0"
+  }
+}
